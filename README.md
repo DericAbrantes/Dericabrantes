@@ -1,6 +1,6 @@
 ### Olá, Me chamo Deric Abrantes , veja logo abaixo um pouco sobre mim 😉
 - 💻 Atualmente trabalho como Técnico de Suporte JR na Empresa Sotreq S/A 🚜
-- Realizado diversas atividades diariamente como suporte ao cliente interno com problemas sistêmicos, controle de servidores em nuvem auxiliando Analistas, organização e controle de CPD's, controle de segurança Cibernética (análise de possiveis arquivos e link maliciosos que o usuário final pode acessar acidentalmente e infectar a Orgnaização), Backups de segurança, telecomunicações, configuração/suporte de Coletores/impressoras de Almoxarifes
+- 📌 Realizado diversas atividades diariamente como suporte ao cliente interno com problemas sistêmicos, controle de servidores em nuvem auxiliando Analistas, organização e controle de CPD's, controle de segurança Cibernética (análise de possiveis arquivos e link maliciosos que o usuário final pode acessar acidentalmente e infectar a Orgnaização), Backups de segurança, telecomunicações, configuração/suporte de Coletores/impressoras de Almoxarifes
 - Atualmente estou estudando SI - Sistema de Informação na Instiuição UNA, agregando mais conhecimento constantemente 🔋📁
 
 <div>
