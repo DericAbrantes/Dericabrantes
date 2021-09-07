@@ -25,7 +25,7 @@
  <a href = "mailto:dericemanoelabrantes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   
-  ![Snake animation](https://github.com/Dericabrantes/Dericabrantes/blob/output/github-contribution-grid-snake.svg)
+  <iframe src="https://giphy.com/embed/m32zTHRBlr8WY" width="480" height="377" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vegeta-m32zTHRBlr8WY">via GIPHY</a></p>
   
    </div>
  
